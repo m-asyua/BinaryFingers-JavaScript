@@ -2,7 +2,8 @@
 // binary fingers
 
 /*
-// It referred to the following sites.
+//The following sites were referred.
+
 
 https://learn.ml5js.org/#/reference/handpose
 
