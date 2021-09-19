@@ -5,6 +5,15 @@
 
 This sample uses p5.js and ml5.js.
 
+The sample program shows binary number using fingers. You only need a browser and a webcam.
+Please wait for a while, as it will take some time to start up for the first time.
+
+
+
+Landmarks:
+
+<img width="183" alt="landmarks" src="https://user-images.githubusercontent.com/83494645/133926516-48d4939d-18e1-4576-bb3e-db4f70507963.png">
+
 
 It referred to the following sites.
 
@@ -15,6 +24,7 @@ It referred to the following sites.
 
 
 [https://zenn.dev/tkyko13/scraps/b028812b0b9dc3](https://zenn.dev/tkyko13/scraps/b028812b0b9dc3)
+
 
 
 
