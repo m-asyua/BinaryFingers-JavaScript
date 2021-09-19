@@ -5,9 +5,11 @@
 
 This sample uses p5.js and ml5.js.
 
-The sample program shows binary number using fingers. You only need a browser and a webcam.
-Please wait for a while, as it will take some time to start up for the first time.
+The sample program shows binary number using fingers. 
+It will take a long time to start up for the first time, please wait for a while to start to recognize.
 
+You only need a browser and a webcam. 
+caution: a webcam can only be used in secure contexts; a page loaded using HTTPS, or a page loaded from localhost. 
 
 
 Landmarks:
