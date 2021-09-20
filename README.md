@@ -8,7 +8,7 @@ This sample program shows binary number using fingers.
 It will take a long time (30 seconds - 1 minute) to start up for the first time, please wait for a while to start to recognize.
 
 You only need a browser and a webcam. 
-caution: a webcam can only be used in secure contexts; a page loaded using HTTPS, or a page loaded from localhost. 
+caution: This program (a webcam) can only be used in secure contexts; a page loaded using HTTPS, or a page loaded from localhost. 
 
 
 Landmarks:
