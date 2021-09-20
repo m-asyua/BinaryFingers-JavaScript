@@ -18,7 +18,7 @@ Landmarks:
 <img width="200" alt="tmp001" src="https://user-images.githubusercontent.com/83494645/133926211-84dee6b7-87e3-47cd-8945-df41b0f3609b.gif">
 
 
-The following sites were referred to.
+The following sites were referred:
 
 [https://learn.ml5js.org/#/reference/handpose](https://learn.ml5js.org/#/reference/handpose)
 
