@@ -1,5 +1,8 @@
 # BinaryFingers-JavaScript
 
+You can try this sample here https://classpath.site/b_fingers/
+
+
 <img width="200" alt="tmp002" src="https://user-images.githubusercontent.com/83494645/133957145-3aabfdbe-9280-470c-812a-b048a69b0674.gif">
 
 This sample program uses p5.js and ml5.js.
