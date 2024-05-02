@@ -151,7 +151,3 @@ function getFingerInfo(hand) {
 
 
 }
-
-
-
-
